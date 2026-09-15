@@ -1,0 +1,14 @@
+# NSDUH data files are downloaded from SAMHSA, not redistributed here
+Data/*
+!Data/README.md
+
+# Generated tables and figures
+Outputs/
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Office lock files
+~$*
